@@ -3,8 +3,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yongtae77)](https://solved.ac/yongtae77)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yongtae77&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongtae77&show_icons=true&theme=radical)
 
 <h1>😃 Skills</h1>
 <div align=left> 
